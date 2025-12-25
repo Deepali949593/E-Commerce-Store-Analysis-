@@ -18,5 +18,6 @@ It helps analyze sales performance, customer behavior, and product trends throug
 - Improved data analysis and visualization skills
 
 ## Screenshot
-!(E-commerce-Store-Analysis-main/dashboard.png)
+![Dashboard Preview](E-commerce-Store-Analysis-main/dashboard.png)
+
 
