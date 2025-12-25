@@ -5,6 +5,7 @@ It helps analyze sales performance, customer behavior, and product trends throug
 
 ## Tools Used
 - Microsoft Power BI
+- Microsoft Excel
 
 ## Project Highlights
 - Interactive dashboard for online sales analysis
